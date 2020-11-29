@@ -1,0 +1,17 @@
+Jefe:
+	Jorge Ramirez
+
+Tecnologia:
+	
+	Cristian Brugmna
+	Rosbel Reyes
+	Juan Esparragoza
+	Ilay Acosta
+
+RRHH:
+	
+	Jessica Pilco
+	Flor Perez
+	Giselle Verde
+	Minedys Dominguez
+	rhakim Rodriguez

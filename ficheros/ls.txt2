@@ -1,0 +1,27 @@
+ls: no se puede acceder a '/no': No existe el archivo o el directorio
+ls: no se puede acceder a 'existe': No existe el archivo o el directorio
+.:
+apellidos.txt
+bienvenida.txt
+comando2.txt
+comando.txt
+Empresas.txt
+espaciado.txt
+fgrep.txt
+ips2.txt
+ips3.txt
+ips.txt
+jefes.txt
+ls.txt
+ls.txt2
+ls.txt.err
+nombres.txt
+office
+office2
+office3
+sed.txt
+sed.txt.orig
+sort
+split.txt
+tabulado.ext
+uniq.txt

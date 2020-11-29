@@ -1,0 +1,5 @@
+Intel CORP.# Paul Otellini#http://www.intel.com
+Cisco System.# Jhon T. Chambers#http://www.cisco.com
+Google Inc.#Larry Page#http://www.google.com
+Apple Inc#Tymothi D. Cook #http://apple.com
+Integra

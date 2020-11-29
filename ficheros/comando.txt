@@ -1,0 +1,10 @@
+sort
+ls
+mkdir
+sed
+wc
+head
+tail
+xpand
+unexpand
+actualizar
